@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/E-commerce-App/static/css/main.e2598abe.css",
+    "main.js": "/E-commerce-App/static/js/main.ae5eac56.js",
+    "static/media/Ipad Pro.png": "/E-commerce-App/static/media/Ipad Pro.1200365be546e67db5f2.png",
+    "static/media/IPhone 15 pro Max.png": "/E-commerce-App/static/media/IPhone 15 pro Max.30c02f6e1cc1fe0efa4f.png",
+    "static/media/IPhone 15.png": "/E-commerce-App/static/media/IPhone 15.73dabd3a0c856efd4929.png",
+    "static/media/iPad Mini.png": "/E-commerce-App/static/media/iPad Mini.da73d6af0968dbf97553.png",
+    "static/media/iMac24.png": "/E-commerce-App/static/media/iMac24.9ef0e0518715d20579a2.png",
+    "static/media/Apple Watch Series 9.png": "/E-commerce-App/static/media/Apple Watch Series 9.20778e54d3411ccaecff.png",
+    "static/media/AirPods Max.png": "/E-commerce-App/static/media/AirPods Max.ceb54d5be1fc21f1cb80.png",
+    "static/media/MacBook Pro 1TB.png": "/E-commerce-App/static/media/MacBook Pro 1TB.18aef5ea8680fa50f8df.png",
+    "static/media/iphone 13 pro.png": "/E-commerce-App/static/media/iphone 13 pro.aa7b5ae49962c89092f1.png",
+    "index.html": "/E-commerce-App/index.html",
+    "main.e2598abe.css.map": "/E-commerce-App/static/css/main.e2598abe.css.map",
+    "main.ae5eac56.js.map": "/E-commerce-App/static/js/main.ae5eac56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2598abe.css",
+    "static/js/main.ae5eac56.js"
+  ]
+}
