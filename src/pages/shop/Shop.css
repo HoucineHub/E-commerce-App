@@ -68,7 +68,7 @@
 }
 
 
-@media (max-width: 1390px) {
+@media (max-width: 1399px) {
     .products {
         grid-template-columns: 1fr 1fr;
     }
