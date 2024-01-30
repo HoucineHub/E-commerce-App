@@ -6,7 +6,7 @@
 }
 
 .cartItem{
-    width: 800px;
+    width: 700px;
     height: 350px;
     display: flex;
     align-items: center;
@@ -77,14 +77,23 @@
     cursor: pointer;
 }
 
-
+ 
 
 
 
 @media only screen and (max-width: 1190px) {
     .cartItem {
-        width: 700px; /* Adjust as needed */
+        width: 600px; 
         margin: 20px;
+    }
+    .cartItem img{
+        width: 200px;
+    }
+    .cartItem .description .name {
+        font-size: 20px;
+    }
+    .cartItem .description .name, .price {
+        font-size: 20px;
     }
 }
 
@@ -97,7 +106,7 @@
 
 @media only screen and (max-width: 767px) {
     .cartItem {
-        width: 400px;
+        width: 350px;
         margin: 25px;
     }
 }

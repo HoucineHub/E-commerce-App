@@ -68,7 +68,7 @@
 }
 
 
-@media (max-width: 1190px) {
+@media (max-width: 1390px) {
     .products {
         grid-template-columns: 1fr 1fr;
     }
@@ -96,4 +96,4 @@
         height: 280px;
         margin: 60px;
     }
-}
+} 

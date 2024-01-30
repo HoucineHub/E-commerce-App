@@ -26,7 +26,7 @@ function Cart(){
                 })} 
             </div>
 
-
+ 
             {totalAmount > 0 ? 
             <div className="checkout">
                 <p className="subtotal"> Subtotal : {totalAmount} MAD</p>

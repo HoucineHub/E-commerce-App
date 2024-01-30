@@ -19,7 +19,7 @@ function Product(props){
                 <p className="price">{price} MAD</p>
             </div>
             <button className="addToCartBtn" onClick={ () =>addToCart(id)}>
-                Add To Cart {cartItemAmount > 0 && <> {cartItemAmount} </>}
+                Add To Cart {cartItemAmount > 0 && <> {cartItemAmount} </>} 
             </button>
         </div>
     )
