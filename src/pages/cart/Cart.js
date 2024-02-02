@@ -24,7 +24,7 @@ function Cart(){
                         return <CartItem data={product} />
                     }
                 })} 
-            </div>
+            </div> 
 
  
             {totalAmount > 0 ? 
